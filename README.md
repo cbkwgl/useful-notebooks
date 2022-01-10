@@ -5,5 +5,8 @@ This Repository is a compilation of some useful notebooks which I came across.
 TencentARC - GFPGAN - https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo
 https://github.com/Machine-Learning-Tokyo/Interactive_Tools
 
+### Evaluation Metrics
+https://github.com/AstraZeneca/rexmex
+
 ### Animation
 https://github.com/wjakob/instant-meshes

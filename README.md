@@ -16,3 +16,6 @@ https://github.com/wjakob/instant-meshes
 ### Presentation
 SQL Checkered Flag Join Diagrams. The two images are added to the repository
 https://github.com/amartinson193/SQL_Checkered_Flag_Join_Diagrams
+
+### Data Science with R
+https://r4ds.had.co.nz/data-visualisation.html
